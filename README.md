@@ -14,7 +14,7 @@ This is a Spotify-inspired music streaming app built with React and Redux Toolki
 - Tailwind CSS
 - Last.fm API
 
-## 📸 Screenshots
+## 📸 Screenshot
 <img src="src/assets/ss.png" width="600"/>
 
 
