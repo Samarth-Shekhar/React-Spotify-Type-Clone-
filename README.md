@@ -1,7 +1,22 @@
-# Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Shazam, Redux)
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+# 🎧 React Spotify-Type Clone
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+This is a Spotify-inspired music streaming app built with React and Redux Toolkit, using the Last.fm API. It features top charts, artist details, playlists, and song previews.
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+## 🚀 Features
+- 🎶 Browse top songs and artists
+- 📁 Create and manage playlists
+- ▶️ Play/pause music with fallback audio
+- 🎨 Beautiful UI with TailwindCSS
+
+## 🛠 Built With
+- React + Vite
+- Redux Toolkit
+- Tailwind CSS
+- Last.fm API
+
+## 📸 Screenshots
+![Home Page](assets/images/ss.png)
+
+
+
+Made with ❤️ by [Samarth Shekhar](https://github.com/Samarth-Shekhar)
